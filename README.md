@@ -2,7 +2,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/Voiidv2/twitch-getFollowers)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/Voiidv2/hue-roomTemperature)
 
 This projects allows you to see different room temperatures via a Philips Hue motion sensor.
 
