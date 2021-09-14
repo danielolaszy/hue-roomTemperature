@@ -35,6 +35,7 @@ To get the project running locally, follow these simple steps.
 
 ## Acknowledgements
 
+- [React](https://reactjs.org/)
 - [Bootstrap](https://getbootstrap.com/)
 - [react-router](https://reactrouter.com/)
 - [Philips Hue](https://www.philips-hue.com/)
