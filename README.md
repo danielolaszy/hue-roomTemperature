@@ -2,7 +2,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/Voiidv2/hue-roomTemperature)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/danielolaszy/hue-roomTemperature)
 
 This project allows you to see different room temperatures via a Philips Hue motion sensor.
 
@@ -19,7 +19,7 @@ To get the project running locally, follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Voiidv2/hue-roomTemperature.git
+   git clone https://github.com/danielolaszy/hue-roomTemperature.git
    ```
 2. Install npm packages
    ```sh
